@@ -1,2 +1,1 @@
-# maya
-PROJECT
+# Maya2
